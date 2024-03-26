@@ -1,0 +1,1 @@
+export { getMovieNotificationDataService } from "./get";
